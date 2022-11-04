@@ -16,6 +16,8 @@ export const Skills = () => {
 				{ name: 'Websocket', level: 'Basic' },
 			],
 			second: [
+				{ name: 'Redux thunk', level: 'Intermediate' },
+				{ name: 'Redux saga', level: 'Basic' },
 				{ name: 'HTML', level: 'Advanced' },
 				{ name: 'CSS', level: 'Advanced' },
 				{ name: 'SCSS/SASS/LESS', level: 'Advanced' },
